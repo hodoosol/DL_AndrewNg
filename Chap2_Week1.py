@@ -186,7 +186,8 @@ two-sided difference공식이 더 정확하다.
  4. grad check는 dropout에서는 실행되지 않는다.
 
     
-
+   
+   
 
 
 """
