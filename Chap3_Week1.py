@@ -1,11 +1,11 @@
 """
 2021.02.22
 Andrew Ng - Deep Learning
-Chater 2. Structuring Machine Learning Projects
+Chater 3. Structuring Machine Learning Projects
 Week 1. ML Strategy(1)
 
-"""
 
+"""
 
 
 """
