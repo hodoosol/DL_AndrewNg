@@ -2,7 +2,7 @@
 2021.02.28
 Andrew Ng - Deep Learning
 Chater 4. CNN
-Week 1. Convolutional Neural
+Week 1. Convolutional Neural Networks
 
 """
 
